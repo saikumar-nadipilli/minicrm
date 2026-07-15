@@ -1,0 +1,6 @@
+{
+  "name": "mini CRM",
+  "description": "A premium corporate CRM and sales command center designed to manage customer relationships, track lead pipelines, and monitor team activities in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
